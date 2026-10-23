@@ -1,9 +1,3 @@
-
-// 3. JavaScript — script.js
-// This small JavaScript file makes the mobile menu open and close when the user clicks the ☰ button. It also closes the menu after the user selects a page.
-
-// javascript
-
 const menuBtn = document.getElementById("menu-btn");
 const navLinks = document.getElementById("nav-links");
 
